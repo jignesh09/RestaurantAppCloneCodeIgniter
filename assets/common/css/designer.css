@@ -1,0 +1,39 @@
+body{color: #333;}
+.navbar.navbar-inverse.navbar-fixed-top .nav-header .logo-wrap .brand-img.add-inner-logo{ width:150px; top: -11px; left: 18px;}
+.wrapper.theme-1-active.pimary-color-red .fixed-sidebar-left .side-nav > li > a.active{background: #0058b6;}
+.modal-header{background-color: #0058b6 !important;}
+.bill24-login-box, .bill24-reset-box {background: #f5f5f5; border-radius: 3px;}
+.bill24-full-width-logo {float: left;width: 100%;text-align: center;padding: 20px 0;}
+.bill24-btn{ border-radius:4px !important; font-size: 16px; background: #ffc600 !important; border: solid 1px #ffc600 !important; color:#1d1d1d; width:100%;}
+.bill24-btn:hover{color:#1d1d1d;}
+.bill24-btn:focus{color:#1d1d1d;}
+.btn.btn-rounded.bill24-reset-btn{background: #ffc600 !important;border: solid 1px #ffc600 !important;color: #1d1d1d; border-radius:4px; width:100%;}
+.btn.btn-primary.bill24-make-active-btn{background: #ffc600 !important; border: solid 1px #ffc600 !important; color: #1d1d1d; font-size: 16px;}
+.btn.btn-warning.bill24-make-inactive-btn{background: #ffc600 !important; border: solid 1px #ffc600 !important; color: #1d1d1d; font-size: 16px;}
+.btn.btn-success.bill24-add-btn{background: #2196f3 !important; border: solid 1px #2196f3 !important;}
+.btn.btn-danger.bill24-delete-btn{background: #2196f3 !important; border: solid 1px #2196f3 !important;}
+.spcRight {margin: 0 6px 10px 0 !important;}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current{background: #2196f3; border-color: #2196f3;}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover{background: #ffc600; border-color: #ffc600; color:#1d1d1d !important;}
+.btn.btn-danger.bill24-close-btn{background: #ffc600 !important; border: solid 1px #ffc600 !important;color: #1d1d1d;font-size: 16px;}
+.help-block1{display: none;color: #d8482c;font-size: 13px;}
+.require{color: red;}
+
+/* ========== Reset passward screen start from here ========= */
+.bill24-reset-box .brand-img {padding: 20px 0;}
+.btnTopSpc {margin-top: 30px !important;}
+.pg-2 {padding-top: 0px !important;}
+@media (max-width: 1400px)
+.slide-nav-toggle .page-wrapper {
+    margin-left: 0px;
+    left: 225px;
+}
+.wrapper.box-layout
+{
+	max-width: 100% !important;
+	padding-top: 10px;
+}
+.dev-fixed-top-width
+{
+	max-width: 100% !important;
+}
